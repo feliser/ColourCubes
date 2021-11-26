@@ -1,4 +1,4 @@
-# Color Cubes
+# Colour Cubes
 
 Control the cube on the outside and clear the board as fast as you can by making a full row/column. Originally made as a final project for ics3u.
 
